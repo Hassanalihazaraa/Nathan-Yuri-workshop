@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2395e7e9-9a9f-4284-91f9-ce3ca8c8aa10" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/ConsoleCalculator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/ConsoleCalculator.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectId" id="1jHK3ALXzKuzj1xBj6j3OhFKb3D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2395e7e9-9a9f-4284-91f9-ce3ca8c8aa10" name="Default Changelist" comment="" />
+      <created>1603455375819</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603455375819</updated>
+      <workItem from="1603455377525" duration="3259000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="418" y="212" width="1210" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603455551804">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="418" y="212" width="1210" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1052@0.28.1920.1052" timestamp="1603455551804" />
+    <state x="411" y="189" key="SettingsEditor" timestamp="1603458618136">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="411" y="189" key="SettingsEditor/0.28.1920.1052@0.28.1920.1052" timestamp="1603458618136" />
+    <state x="834" y="415" width="250" height="282" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1603455399523">
+      <screen x="0" y="28" width="1920" height="1052" />
+    </state>
+    <state x="834" y="415" width="250" height="282" key="jetbrains.javascript.buildTools.run-task-popup/0.28.1920.1052@0.28.1920.1052" timestamp="1603455399523" />
+  </component>
+</project>
