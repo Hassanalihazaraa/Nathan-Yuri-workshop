@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "if0VKXOsDAKsVYjM0G6sORIYeq7P36zNEYn2aFivdo4eEKMetSCvuWq4F0UtA04zNHWVUUn5s3V3e0xH+iufcA==",
+  "success": true,
+  "projectFilePath": "/home/hassan/RiderProjects/CRUD .NET/CRUD .NET.csproj",
+  "expectedPackageFiles": [
+    "/home/hassan/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.3/microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512",
+    "/home/hassan/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.5/microsoft.netcore.app.host.linux-x64.3.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
