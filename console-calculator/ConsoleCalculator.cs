@@ -6,14 +6,15 @@ namespace console_calculator
     {
         public double solution;
 
-        public double calculator()
+        public void calculate()
         {
-            Console.Writeline("Please enter a number two times");
-            double numb1 = (double) Console.Readline();
-            double numb2 = (double) Console.Readline();
-            Console.Writeline(
-                "Please enter which arithmetic operation(additon,substraction,multiplication,division) do you want to do?");
-            string input = Console.Readline();
+            Console.WriteLine("Please enter first number");
+            double numb1 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Please enter second number");
+            double numb2 = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine(
+                "Please enter which arithmetic operation(add,substract,multiply,divide) do you want to do?");
+            string input = Console.ReadLine();
             switch (input)
             {
                 case "add":
@@ -23,14 +24,13 @@ namespace console_calculator
                     solution = numb1 - numb2;
                     break;
                 case "multiply":
-                    solution = numb1 * num2;
+                    solution = numb1 * numb2;
                     break;
                 case "divide":
-                    solution = numb1 / num2;
+                    solution = numb1 / numb2;
                     break;
             }
-
-            return Console.Writeline(solution);
+            Console.WriteLine(solution);
         }
     }
 }
