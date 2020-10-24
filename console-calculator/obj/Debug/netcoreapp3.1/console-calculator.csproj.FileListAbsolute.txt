@@ -1,0 +1,13 @@
+/home/hassan/Rider/console-calculator/obj/Debug/netcoreapp3.1/console-calculator.csprojAssemblyReference.cache
+/home/hassan/Rider/console-calculator/obj/Debug/netcoreapp3.1/console-calculator.AssemblyInfoInputs.cache
+/home/hassan/Rider/console-calculator/obj/Debug/netcoreapp3.1/console-calculator.AssemblyInfo.cs
+/home/hassan/Rider/console-calculator/obj/Debug/netcoreapp3.1/console-calculator.csproj.CoreCompileInputs.cache
+/home/hassan/Rider/console-calculator/bin/Debug/netcoreapp3.1/console-calculator
+/home/hassan/Rider/console-calculator/bin/Debug/netcoreapp3.1/console-calculator.deps.json
+/home/hassan/Rider/console-calculator/bin/Debug/netcoreapp3.1/console-calculator.runtimeconfig.json
+/home/hassan/Rider/console-calculator/bin/Debug/netcoreapp3.1/console-calculator.runtimeconfig.dev.json
+/home/hassan/Rider/console-calculator/bin/Debug/netcoreapp3.1/console-calculator.dll
+/home/hassan/Rider/console-calculator/bin/Debug/netcoreapp3.1/console-calculator.pdb
+/home/hassan/Rider/console-calculator/obj/Debug/netcoreapp3.1/console-calculator.dll
+/home/hassan/Rider/console-calculator/obj/Debug/netcoreapp3.1/console-calculator.pdb
+/home/hassan/Rider/console-calculator/obj/Debug/netcoreapp3.1/console-calculator.genruntimeconfig.cache
