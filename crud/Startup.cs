@@ -1,3 +1,5 @@
+using crud.Data;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,6 +10,7 @@ using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+
 
 namespace crud
 {
@@ -24,6 +27,8 @@ namespace crud
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddRazorPages();
+            services.AddDbContext<CrudDbContext>(options =>
+                options.UseMySQL(Configuration.GetConnectionString("CrudDbContext")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

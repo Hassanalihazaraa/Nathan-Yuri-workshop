@@ -22,5 +22,6 @@ namespace crud
                 {
                     webBuilder.UseStartup<Startup>();
                 });
+        
     }
 }
