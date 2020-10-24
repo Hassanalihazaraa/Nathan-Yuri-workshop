@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "AKVGNaFYk/IEv6KW+smdiU/9HbbJ5fPBLhUh5KhQ9C1uTK4L4jBb7jfXenS7X4UrC0NpXKC2QSvl21J2UcRevw==",
+  "dgSpecHash": "fnBOnbpu9jDi60pDPXb8eML2ITeQ6bQ+eAxvNS3ou/cNywzM353Hab/UrG2YhgNOHJBb3IggCDCWUlkYr/dsrQ==",
   "success": true,
   "projectFilePath": "/home/hassan/RiderProjects/CRUD .NET/CRUD .NET.csproj",
   "expectedPackageFiles": [
@@ -111,9 +111,7 @@
     "/home/hassan/.nuget/packages/system.xml.xdocument/4.0.11/system.xml.xdocument.4.0.11.nupkg.sha512",
     "/home/hassan/.nuget/packages/system.xml.xmldocument/4.0.1/system.xml.xmldocument.4.0.1.nupkg.sha512",
     "/home/hassan/.nuget/packages/system.xml.xpath/4.0.1/system.xml.xpath.4.0.1.nupkg.sha512",
-    "/home/hassan/.nuget/packages/system.xml.xpath.xmldocument/4.0.1/system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
-    "/home/hassan/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.3/microsoft.aspnetcore.app.ref.3.1.3.nupkg.sha512",
-    "/home/hassan/.nuget/packages/microsoft.netcore.app.host.linux-x64/3.1.5/microsoft.netcore.app.host.linux-x64.3.1.5.nupkg.sha512"
+    "/home/hassan/.nuget/packages/system.xml.xpath.xmldocument/4.0.1/system.xml.xpath.xmldocument.4.0.1.nupkg.sha512"
   ],
   "logs": []
 }
