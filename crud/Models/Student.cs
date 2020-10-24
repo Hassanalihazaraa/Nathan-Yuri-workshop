@@ -16,5 +16,14 @@ namespace crud.Models
         [Required]
         [ForeignKey("TeacherId")]
         public int teacherId { get; set; }
-    }
+        public IList<Teacher> Teacher { get;set; }
+
+        public async Task<IActionResult> OnGetAsync()
+        {
+            Teacher = await _context.Teacher
+                      .Include(student => student.Teacher)
+                      .ToListAsync();
+            return Page();
+        }
+    }  
 }
